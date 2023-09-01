@@ -9,7 +9,7 @@ let a = [1,2,5,4,0];
 let b = [1,2,5,4,0];
 
 if (a===b) {
-  console.log('');
+  console.log('0');
 }else{
   console.log(1);
 };
