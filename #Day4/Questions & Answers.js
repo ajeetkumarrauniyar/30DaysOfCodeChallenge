@@ -125,6 +125,8 @@ let person = {
 
 
 // Q. Scope (Lexical)
+// Ans: Lexical scoping means that the scope is defined at the location where the variable and function is defined (as opposed to where they are run).
+
 
 //===================================
 // Q. Maps
